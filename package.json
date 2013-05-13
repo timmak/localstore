@@ -1,6 +1,6 @@
 {
   "name": "localstore",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "API for working with localstorage via browerify providing a pullstream api",
   "main": "index.js",
   "scripts": {
@@ -28,12 +28,6 @@
         "iexplore/8.0",
         "iexplore/10.0",
         "iexplore/9.0",
-        "chrome/4.0",
-        "chrome/5.0",
-        "chrome/6.0",
-        "chrome/7.0",
-        "chrome/8.0",
-        "chrome/9.0",
         "chrome/10.0",
         "chrome/11.0",
         "chrome/12.0",
