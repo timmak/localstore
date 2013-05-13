@@ -1,3 +1,5 @@
+[![browser support](https://ci.testling.com/timmak/localstore.png)](https://ci.testling.com/timmak/localstore)
+
 #LocalStore
 
 Local storage library with pull stream api.
