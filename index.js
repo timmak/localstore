@@ -13,8 +13,8 @@ function get(key){
 
 function has(key){
   var result = false;
-  if(Object.keys(localStorage).indexOf('photoreel') > -1){
-    if(localStorage.getItem('photoreel').length !== 0){
+  if(Object.keys(localStorage).indexOf(key) > -1){
+    if(localStorage.getItem(key).length !== 0){
       result = true;
     }
   }
